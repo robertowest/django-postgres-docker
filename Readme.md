@@ -1,4 +1,4 @@
-# Iniciar proyecto con Django + Postgres
+# Proyecto inial con Django + Postgres
 
 Este proyecto se puede utilizar para iniciar un proyecto desde cero.
 
