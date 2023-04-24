@@ -1,16 +1,19 @@
-# Django & Postgres With Docker Starter Project
+# Iniciar proyecto con Django + Postgres
 
-This project is created for a youtube tutorial. If you are here because of that video, welcome! You can also use this project as starter for your own projects.
+Este proyecto se puede utilizar para iniciar un proyecto desde cero.
 
-## Requirements
+## Requisitos
 - docker
 - docker-compose
 
-## Setup
-First you need to rename .env.sample file to .env.
+## Configuración
+Cambi el nombre del fichero .env.sample por .env
 
-## Setup on Development
+## Configuración para desarrollo
 ```docker-compose up --build```
 
-## Setup on Production
+## Configuración para producción
 ```docker-compose -f docker-compose.prod.yml up --build```
+
+
+Este proyecto es un fork de: alicmp/djnago-postgres-docker-starter
